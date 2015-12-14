@@ -1,0 +1,72 @@
+itemGroup.TabConversionBall=Conversion Mod
+
+tile.BlockBloodDiamondOre.name=Blut Diamant Erz
+tile.BlockBloodDiamondSolid.name=Blut Diamant Block
+tile.BlockBloodDiamondStairs.name=Blut Diamant Treppe
+tile.BlockBloodDiamondHalfSlab.name=Blut Diamant Stufe
+tile.BlockBloodDiamondDoubleSlab.name=Blut Diamant Doppelstufe
+tile.BlockRedCoal.name=Rote Kohle Erz
+tile.BlockXPStone.name=XP Stein (Du bekommst XP und Pflasterstein)
+tile.BlockXPNetherRack.name=XP Nether Rack (Bekommst XP and Nether Rack)
+tile.BlockNetherRedCoal.name=Nether Rote Kohle Erz
+tile.BlockNetherBloodDiamond.name=Nether Blut Diamont Erz
+
+
+item.ItemBloodDiamond.name=Blut Diamant
+item.ItemConversionBall.name=Konvertierungsball
+item.ItemConversionWand.name=Konvertierungszauberstab
+item.ItemBloodDiamondAxe.name=Blut Diamant Axt
+item.ItemBloodDiamondPickAxe.name=Blut Diamant Spitzhacke
+item.ItemBloodDiamondSpade.name=Blut Diamant Schaufel
+item.ItemBloodDiamondHoe.name=Blut Diamant Sense
+item.ItemBloodDiamondSword.name=Blut Diamant Schwert
+item.ItemBloodDiamondHelmet.name=Blut Diamant Helm
+item.ItemBloodDiamondChestplate.name=Blut Diamant Panzer
+item.ItemBloodDiamondLeggings.name=Blut Diamant Hose
+item.ItemBloodDiamondBoots.name=Blut Diamant Schuhe
+item.ItemRedCoal.name=Rote Kohle
+item.ItemBloodDiamondIngot.name=Blut Diamant Barren
+item.ItemBloodDiamondDust.name=Blut Diamant Staub
+item.ItemPortableCraftingTable.name=Tragbare Werkbank
+
+achievement.bloodDiamondAm=Blut Diamant Miner
+achievement.bloodDiamondAm.desc=Die wichtigen Blut Diamanten
+achievement.bloodDiamondAxeAm=Blut Diamant Axt
+achievement.bloodDiamondAxeAm.desc=Eine starke Blut Diamant Axt
+achievement.bloodDiamondPickAxeAm=Blut Diamant Spitzhacke
+achievement.bloodDiamondPickAxeAm.desc=Eine starke Blut Diamant Spitzhacke
+achievement.bloodDiamondSpadeAm=Blut Diamant Spaten
+achievement.bloodDiamondSpadeAm.desc=Ein starker Blut Diamant Spaten 
+achievement.bloodDiamondHoeAm=Blut Diamant Sense
+achievement.bloodDiamondHoeAm.desc=Eine starke Blut Diamant Sense 
+achievement.bloodDiamondSwordAm=Blut Diamant Schwert
+achievement.bloodDiamondSwordAm.desc=Ein starkes Blut Diamant Schwert
+achievement.bloodDiamondHelmetAm=Blut Diamant Helm
+achievement.bloodDiamondHelmetAm.desc=Ein starker Blut Diamant Helm
+achievement.bloodDiamondChestplateAm=Blut Diamant Brustpanzer
+achievement.bloodDiamondChestplateAm.desc=Ein starker Blut Diamant Brustpanzer
+achievement.bloodDiamondLeggingsAm=Blut Diamant Hose
+achievement.bloodDiamondLeggingsAm.desc=Eine starke Blut Diamant Hose
+achievement.bloodDiamondBootsAm=Blut Diamant Schuhe
+achievement.bloodDiamondBootsAm.desc=Starke Blut Diamant Schuhe
+achievement.conversionBallAm=Der Konvertierungsball
+achievement.conversionBallAm.desc=Du kannst Items und Blöcke konvertieren
+achievement.conversionWandAm=Der Konvertierungszauberstab
+achievement.conversionWandAm.desc=Du kannst Blöcke in der Welt verändern
+achievement.bloodDiamondIngotAm=Blut Diamant Barren
+achievement.bloodDiamondIngotAm.desc=Du kannst Blut Diamant Blöcke, Treppen und Stufen erstellen
+achievement.redCoalAm=Rote Kohle
+achievement.redCoalAm.desc=Du kannst 16 Erze mit einer Kohle smelzen
+
+container.pcrafting=Tragbare Werkbank
+container.inventory=Inventory
+container.wandsettings=Conversion Wand Einstellungen
+container.selecteditem=Ausgewaehlter Block:
+container.matrixsize=Groesse der Matrix:
+container.closebtn=Schliessen
+container.usage=Benutzung:
+container.usagesleft= Ben. uebrig
+
+key.mplus=Matrix vergrößern
+key.mminus=Matrix verkleinern
+key.categories.ConversionMod=Conversion Mod
